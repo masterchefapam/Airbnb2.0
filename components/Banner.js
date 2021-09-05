@@ -17,7 +17,7 @@ function Banner() {
             <p className="">Hello</p>
             <button className="border hover:shadow-xl active:border-purple-500 active:border-opacity-50
                  bg-white rounded-full shadow-lg transition duration-150 hover:scale-105 ease-out hover:text-black
-                  active:scale-90 h-14 w-40 text-purple-600 p-2">Im Flexible</button>
+                  active:scale-90 h-14 w-40 text-purple-600 p-2">I'm Flexible</button>
                   
             </div>
         </div>
