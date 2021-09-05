@@ -17,7 +17,7 @@ export default function Header() {
                       <Image src="https://links.papareact.com/qd3" 
                          objectFit="contain" 
                          layout="fill"
-                         objectPosition="left" alt='myImage'/>
+                         objectPosition="left" alt="myImage"/>
                    </div>
                    {/* Middle */}
                    <div className="flex items-center min-w-min  md:border-2  
